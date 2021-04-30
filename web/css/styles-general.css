@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.grupo-espacio{
+    padding: .5em 0 .5em 0;
+}
+.panel-proceso{
+    margin-top: 15px;
+}
+
+#container-titulo {
+    text-align: center;
+    font-size: 25px;
+
+}
+.titulo{
+    font-size: 30px;
+    color: #0B75AF;
+    font-family: monospace;
+}
